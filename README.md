@@ -28,3 +28,6 @@ Some notes:
 ## Running  
 Open a PowerShell window in the folder where you have all the programs, and run `.\run-speedtests.ps1`.  
 **PowerShell 7 is highly recommended!** PowerShell 5 is quite slow.
+### Dependencies  
+For execution, you must have cscript, PHP, and Python 3 available at the command line.  
+On any modern Windows system, cscript should always be available. The other two will have to be installed.
